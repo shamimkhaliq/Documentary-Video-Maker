@@ -1,0 +1,9 @@
+# Parts list for the video_env
+numpy<2
+diffusers
+pandas
+accelerate
+imageio
+imageio-ffmpeg
+# Note: PyTorch/xformers must be installed separately with the correct CUDA index URL.
+# See README.md for the full command.

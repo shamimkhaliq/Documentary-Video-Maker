@@ -1,0 +1,8 @@
+# Parts list for the audio_env
+speechbrain
+soundfile
+pandas
+datasets
+sentencepiece
+# Note: PyTorch must be installed separately with the correct CUDA index URL.
+# See README.md for the full command.

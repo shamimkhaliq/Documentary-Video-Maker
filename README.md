@@ -60,5 +60,6 @@ python imagine_movie_maker.py
 
 The Future: Hugging Face App
 The app.py file contains the code for a Gradio web application that wraps this entire process. The goal is to deploy this to a Hugging Face Space to make it accessible to everyone.
+
 Credits
-This project was a collaboration between a human visionary and a team of AI assistants, including Gemini, ChatGPT, and Grok.
+This project was a collaboration between a human and a team of AI, including Gemini, ChatGPT, and Grok.
